@@ -8,6 +8,8 @@
         <entry key="app/src/main/res/drawable/ic_underline.xml" value="0.1495" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_otp.xml" value="0.30104166666666665" />
+        <entry key="app/src/main/res/layout/fragment_login.xml" value="0.2824074074074074" />
+        <entry key="app/src/main/res/layout/fragment_phone.xml" value="0.3015625" />
       </map>
     </option>
   </component>
